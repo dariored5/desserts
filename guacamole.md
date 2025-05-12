@@ -5,8 +5,5 @@
 * salt (2)
 <<<<<<< HEAD
 ## Instructions
-* peel the avocados
-=======
-* onion
+* peel the avocados and put them into a bowl.
 
->>>>>>> 09ac60dc91ecfa9806b6cb3a100ecf9fd6754f15
