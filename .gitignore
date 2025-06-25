@@ -1,3 +1,5 @@
 *.png
 pictures/
-
+!pictures/pizza
+.Rproj.user
+desserts.Rproj
